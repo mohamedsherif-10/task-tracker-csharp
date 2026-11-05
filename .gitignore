@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+
+# Local task data
+tasks.json
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
